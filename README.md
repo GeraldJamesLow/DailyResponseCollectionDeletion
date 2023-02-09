@@ -11,11 +11,10 @@ similar to the original information collected has been used instead.
 General Description of the Process:
 
 When the connected Form is completed, the following data is collected:
-
-    * Timestamp of Form Submission
-    * Name
-    * ID (Up to 5 Alphanumeric Characters)
-    * Option (Yes / No)
+   - Timestamp of Form Submission
+   - Name
+   - ID (Up to 5 Alphanumeric Characters)
+   - Option (Yes / No)
 
 When a form is submitted, it is appended to the 'Master_Copy' sheet
 
