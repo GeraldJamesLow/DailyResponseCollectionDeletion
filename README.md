@@ -25,10 +25,10 @@ name as the timestamp (formatted to DD/MM/YY)
     to the sheet
 
 Concurrently, the script checks for sheets with names that match these criteria:
-    - Weekends (e.g. 18/06/23 which is a Sunday)
-    - More than 3 days before the current date
-    - After the current date
-    - Not 'README!' or 'Master_Copy'
+    * Weekends (e.g. 18/06/23 which is a Sunday)
+    * More than 3 days before the current date
+    * After the current date
+    * Not 'README!' or 'Master_Copy'
 These sheets will be deleted.
 
 Instructions for use:
